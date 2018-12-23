@@ -1,14 +1,6 @@
 ## Welcome to Yifan Zhang GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/zyfsa/zhangyf.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 Yifan Zhang is a graduate student at University of Science and Technology of China. I'm from sichuan province. My research interest is computer vision. If you have any questions, please feel free to contact me by email zyf111ustc@gmail.com.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
