@@ -16,3 +16,4 @@ Neural Network" Pacific Rim Conference on Multimedia (PCM 2018 ORAL）.
 
 # Reward
 1. 天池大赛雪浪制造 AI 挑战赛--视觉计算辅劣良品检测决赛第3名
+```
